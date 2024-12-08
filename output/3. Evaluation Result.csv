@@ -1,0 +1,19 @@
+,Accuracy
+Red Wine Quality Prediction [ori feature - ori target],0.55
+Red Wine Quality Prediction [norm feature - ori target],0.546875
+Red Wine Quality Prediction [std feature - ori target],0.546875
+White Wine Quality Prediction [ori feature - ori target],0.4387755102040816
+White Wine Quality Prediction [norm feature - ori target],0.4326530612244898
+White Wine Quality Prediction [std feature - ori target],0.4326530612244898
+Student Math G3 Prediction [le feature - le target],0.20253164556962025
+Student Math G3 Prediction [le-norm feature - le target],0.1518987341772152
+Student Math G3 Prediction [le-std feature - le target],0.1518987341772152
+Student Math G3 Prediction [ohe feature - ohe target],0.16455696202531644
+Student Math G3 Prediction [ohe-norm feature - ohe target],0.11392405063291139
+Student Math G3 Prediction [ohe-std feature - ohe target],0.11392405063291139
+Student Portuguese G3 Prediction [le feature - le target],0.13846153846153847
+Student Portuguese G3 Prediction [le-norm feature - le target],0.09230769230769231
+Student Portuguese G3 Prediction [le-std feature - le target],0.1
+Student Portuguese G3 Prediction [ohe feature - ohe target],0.08461538461538462
+Student Portuguese G3 Prediction [ohe-norm feature - ohe target],0.08461538461538462
+Student Portuguese G3 Prediction [ohe-std feature - ohe target],0.08461538461538462
