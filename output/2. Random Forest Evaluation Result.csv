@@ -1,4 +1,6 @@
 ,Accuracy
+Wine Red [wineModel],0.64375
+Wine White [wineModel],0.639795918367347
 Student Math [stdModel] - [le],0.4050632911392405
 Student Math [stdModel] - [ohe],0.4177215189873418
 Student Portuguese [stdModel] - [le],0.5153846153846153
@@ -9,5 +11,3 @@ Student Math [standardModel] - [le],0.35443037974683544
 Student Math [standardModel] - [ohe],0.31645569620253167
 Student Portuguese [standardModel] - [le],0.4230769230769231
 Student Portuguese [standardModel] - [ohe],0.4307692307692308
-Student Math [standardModel],0.31645569620253167
-Student Portuguese [standardModel],0.4307692307692308
